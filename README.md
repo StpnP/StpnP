@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @StpnP
+- 👀 I’m interested in making my way through data analytics and data science
+- 🌱 I’m currently learning Python, SQL, and Dataviz tools
